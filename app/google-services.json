@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "185460847235",
+    "firebase_url": "https://whatsapp-5dac4.firebaseio.com",
+    "project_id": "whatsapp-5dac4",
+    "storage_bucket": "whatsapp-5dac4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185460847235:android:f393699c5facfa9f",
+        "android_client_info": {
+          "package_name": "com.example.suman.chats"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "185460847235-rhv2sn376kk3os5e51fqn9v2o34gprli.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.suman.chats",
+            "certificate_hash": "20e7b567dcf3a05744bdbb4e78411bb8889f6317"
+          }
+        },
+        {
+          "client_id": "185460847235-bt9il1g0sdnabvggad1m2413189ejfrd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjG72HEpe-ndWuFHzTB0mE9SwJrpydk7E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "185460847235-bt9il1g0sdnabvggad1m2413189ejfrd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185460847235:android:5ffb5c52d7a452f0",
+        "android_client_info": {
+          "package_name": "com.tutorials.hp.swipetabslistview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "185460847235-cgitvmhpspn1j2bemc6tj2gohpl4jisj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tutorials.hp.swipetabslistview",
+            "certificate_hash": "20e7b567dcf3a05744bdbb4e78411bb8889f6317"
+          }
+        },
+        {
+          "client_id": "185460847235-bt9il1g0sdnabvggad1m2413189ejfrd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjG72HEpe-ndWuFHzTB0mE9SwJrpydk7E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "185460847235-bt9il1g0sdnabvggad1m2413189ejfrd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
